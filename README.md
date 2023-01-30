@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/order-summary-card-PMWTWe5rFR
 - Live Site URL: https://delightful-starlight-035729.netlify.app/
 
 ## My process
